@@ -1,9 +1,11 @@
 # RPG - Survive Waves
 
 Hello,
-I made a simple survive waves project.
-There is only one type of enemy which is "Skeleton Minion"
-I have focused on implementing OOP and SOLID. More specifically interfaces, inheritance and abstract classes. 
+I made a simple survive-waves project.
+There is only one type of enemy which is the "Skeleton Minion"
+The game is played by "w, a, s, d" keys to move and a left mouse click to attack. I did not add lots of features and tried to keep the project simple like a template. My main focus was to
+make the game mechanic itself. More enemy types, levels, different type of waves and different characters could be added
+I have focused on implementing OOP and SOLID. More specifically interfaces, inheritance, and abstract classes. 
 
 ## Video
 
