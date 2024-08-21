@@ -13,8 +13,8 @@ I have focused on implementing OOP and SOLID. More specifically interfaces, inhe
 
 ## Screenshots
 
-![1](https://cdn.discordapp.com/attachments/1272225365992935437/1272231930347126784/RPG_New_1.PNG?ex=66ba39d1&is=66b8e851&hm=45c714214f80fc65eec63ea8aaeae89f24a20ab05d87020d4772419b7f7df188&)
+![1](https://cdn.discordapp.com/attachments/1272225365992935437/1272231930347126784/RPG_New_1.PNG?ex=66c6c011&is=66c56e91&hm=5b9da51508c67cd3046f79d4d7106fbc976c2a2628e61fc815de971531a26bbe&)
 
-![2](https://cdn.discordapp.com/attachments/1272225365992935437/1272231930880065586/RPG_New_2.PNG?ex=66ba39d1&is=66b8e851&hm=8bf08bb888ab594b222954deb0a69a9e37702f15e322e550a4e55a5eb6945548&)
+![2](https://cdn.discordapp.com/attachments/1272225365992935437/1272231930880065586/RPG_New_2.PNG?ex=66c6c011&is=66c56e91&hm=ce2a98d30ea64cab2bcfb9805e3fc9bba2e3aeba636b5ff84fdcf9c2d545bede&)
 
-![3](https://cdn.discordapp.com/attachments/1272225365992935437/1272231931362279478/RPG_New_3.PNG?ex=66ba39d1&is=66b8e851&hm=1ef398bcd3e92276a859a815b847ce2a188f9aa979b4ab713ac45ee894cfe826&)
+![3](https://cdn.discordapp.com/attachments/1272225365992935437/1272231931362279478/RPG_New_3.PNG?ex=66c6c011&is=66c56e91&hm=adf1346723d86d27b9eaacae8137f9675d76175889d3d990f43dec2449720a7f&)
